@@ -24,14 +24,14 @@ Please use the same login as was used to install the ZelNode.
 2) **Download script & chmod as executable**
 
 ```
-wget -O zelmon.sh https://raw.githubusercontent.com/ZelScripts/ZelMon/master/zelmon.sh && chmod +x zelmon.sh
+wget -O zelmon.sh https://raw.githubusercontent.com/ZelScripts/ZelMon/master/zelmon.sh && chmod +x zelmon.sh && bash ./zelmon.sh
 ```
 
 The script will install jq package and display connected node addresses & your ZelNode sync status.
 
 __NOTE:__ Please expand or maximize your terminal window so information can display properly.
 
-3) **To run** type the following into your terminal
+3) **To run again** type the following into your terminal
 
 ```
 bash ./zelmon.sh
